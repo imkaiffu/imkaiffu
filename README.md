@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am MD Kaif Ansari, Software Developer dedicated to writing clean, efficient code and architecting scalable software solutions.<br><br> Languages : Java, Python, HTML, CSS  <br> Core Skills : Data Structures & Algorithms, OOP, DBMS, OS Fundamentals  <br> Web Technologies : ReactJS, ORACLE , MySQL  <br> Tools & Platforms : Git, GitHub, MySQL  <br> Currently Learning : Full Stack Development, System Design, Advanced DSA  <br> Focused On : Software Engineering roles, problem solving, and real-world projects
+Hi there, I am MD Kaif Ansari.👋
+I am a Software Developer dedicated to writing clean, maintainable code and building efficient software solutions.<br><br> Languages : Java, Python, HTML, CSS  <br> Core Skills : Data Structures & Algorithms, OOP, DBMS, OS Fundamentals  <br> Web Technologies : ReactJS, ORACLE , MySQL  <br> Tools & Platforms : Git, GitHub, MySQL  <br> Currently Learning : Full Stack Development, System Design, Advanced DSA  <br> Focused On : Software Engineering roles, problem solving, and real-world projects
 
 
 ## 🌐 Socials:
