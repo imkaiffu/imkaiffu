@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am MD Kaif Ansari, a Software Engineering enthusiast and AIML student passionate about building scalable and efficient applications.<br><br> Languages : Java, Python, HTML, CSS  <br> Core Skills : Data Structures & Algorithms, OOP, DBMS, OS Fundamentals  <br> Web Technologies : ReactJS, ORACLE , MySQL  <br> Tools & Platforms : Git, GitHub, MySQL  <br> Currently Learning : Full Stack Development, System Design, Advanced DSA  <br> Focused On : Software Engineering roles, problem solving, and real-world projects
+I am MD Kaif Ansari, Software Engineer focused on designing and developing scalable, high-performance applications.<br><br> Languages : Java, Python, HTML, CSS  <br> Core Skills : Data Structures & Algorithms, OOP, DBMS, OS Fundamentals  <br> Web Technologies : ReactJS, ORACLE , MySQL  <br> Tools & Platforms : Git, GitHub, MySQL  <br> Currently Learning : Full Stack Development, System Design, Advanced DSA  <br> Focused On : Software Engineering roles, problem solving, and real-world projects
 
 
 ## 🌐 Socials:
